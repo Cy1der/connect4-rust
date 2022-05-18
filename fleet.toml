@@ -1,0 +1,5 @@
+rd_enabled = true
+fleet_id = "afcb8156-3e03-44dc-84a2-b263a7fce3a9"
+
+[build]
+sccache = "C:\\Users\\me_ah\\.cargo\\bin\\sccache.exe"
